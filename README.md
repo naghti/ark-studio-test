@@ -1,27 +1,5 @@
-# Тестовое задание для Ark Studio
 
-## Демо страница https://tagir404.github.io/ark-studio-test/
+ - Что будет, если ворона сядет на провода?
+ - Электрокар
 
-## Установка зависимостей
-
-```sh
-npm install
-```
-
-### Запуск проекта в режиме разработки
-
-```sh
-npm run dev
-```
-
-### Проверка типов, компиляция и минификация для продакшн
-
-```sh
-npm run build
-```
-
-### Линтинг с [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+   ### vercel - [[https://cadex-test-zeta.vercel.app/](https://talantix-app.vercel.app/)](https://ark-studio-test.vercel.app/)
