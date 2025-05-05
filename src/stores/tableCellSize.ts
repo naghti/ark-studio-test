@@ -1,6 +1,6 @@
 import { reactive } from 'vue'
 
 export const tableCellSizeStore = reactive({
-    width: 180,
+    width: 80,
     height: 40
 })
